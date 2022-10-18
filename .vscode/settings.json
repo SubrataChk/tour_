@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "screenutil",
+    "subrataclash"
+  ],
+  "cmake.configureOnOpen": true,
+  "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
